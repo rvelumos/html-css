@@ -1,0 +1,45 @@
+/* ======================================================
+   OEFENEN MET FLEXBOX
+========================================================= */
+
+/** Exercise 2.1 **/
+div.one{
+    background-color: rebeccapurple;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+
+/** Exercise 2.2 **/
+div.two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div.two div{
+    display: flex;
+    flex-grow: 0;
+}
+
+
+/** Exercise 2.3 **/
+div.three{
+    display: flex;
+    justify-content: space-between;
+}
+
+div.three ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+div.three ul li{
+    display: flex;
+}
+
+div.three div{
+    display: flex;
+    flex-grow: 0;
+}

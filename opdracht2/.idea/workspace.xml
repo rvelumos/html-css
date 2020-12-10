@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86e75919-bd1e-4c1b-af2b-887f3a5ce29f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/lesopdrachten/inheritance/one/HousePets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/lesopdrachten/inheritance/one/HousePets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/lesopdrachten/inheritance/one/WildAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/out/production/Les2/nl/novi/lesopdrachten/inheritance/one/WildAnimals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/HousePets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/HousePets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/WildAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/WildAnimals.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1lF182VxDZyVgiRCEVesf1TNlQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../opdracht3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86e75919-bd1e-4c1b-af2b-887f3a5ce29f" name="Default Changelist" comment="" />
+      <created>1607177863619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607177863619</updated>
+      <workItem from="1607177864842" duration="1088000" />
+      <workItem from="1607180135464" duration="2569000" />
+      <workItem from="1607455540655" duration="12000" />
+      <workItem from="1607522406682" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1607522440006">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607522440006" />
+  </component>
+</project>
