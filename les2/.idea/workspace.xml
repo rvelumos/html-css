@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656578c8-10ac-4c87-be5a-49ade749af2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/javaprogrammeren/lesopdrachten/inheritance/one/AnimalMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../back-end/Java/Opdrachten/Les2/src/nl/novi/lesopdrachten/inheritance/one/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-1/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-1/selectors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-2/flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-selectors-flexbox-base/opdracht-2/flexbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../opdracht3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend-selectors-flexbox-base" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1lTJJ15Jj69GfCl0zWTGqbOhH16" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +53,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607615072212</updated>
-      <workItem from="1607615073233" duration="5661000" />
+      <workItem from="1607615073233" duration="6573000" />
+      <workItem from="1607631704962" duration="4217000" />
+      <workItem from="1607674463868" duration="2789000" />
     </task>
     <servers />
   </component>
@@ -74,11 +72,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1607630355093">
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1607630379128">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607630355093" />
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607630379128" />
   </component>
 </project>

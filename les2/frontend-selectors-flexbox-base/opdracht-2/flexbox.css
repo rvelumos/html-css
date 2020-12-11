@@ -2,6 +2,7 @@
    OEFENEN MET FLEXBOX
 ========================================================= */
 
+
 /** Exercise 2.1 **/
 div.one{
     background-color: rebeccapurple;
@@ -25,21 +26,58 @@ div.two div{
 
 
 /** Exercise 2.3 **/
-div.three{
+div.three,
+div.three ul{
     display: flex;
     justify-content: space-between;
 }
 
 div.three ul{
-    display: flex;
+    flex-basis: 300px;
     flex-wrap: wrap;
-    justify-content: space-around;
 }
 div.three ul li{
     display: flex;
+    list-style-type: none;
 }
 
 div.three div{
+    align-items: center;
     display: flex;
     flex-grow: 0;
 }
+
+
+/** Exercise 2.4 **/
+body > div:nth-child(7n),
+div form{
+    display:flex;
+    justify-content: center;
+}
+
+div form{
+    align-items: center;
+}
+
+div form,
+div form label{
+    flex-direction: column;
+}
+
+div form label{
+    display: flex;
+}
+
+/** Exercise 2.5 **/
+div.five{
+    display: flex;
+    flex-flow: wrap;
+    align-content: space-between;
+}
+
+div.five article{
+    width:300px;
+    flex-grow: 1;
+    align-self: stretch;
+}
+
